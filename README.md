@@ -20,4 +20,4 @@ The project deploy is on Netlify and the final result can be checked [clicking h
 ## Libraries:
 :sweat_drops: JQuery
 
-## Status: Done :heavy_check_mark:
+## Status: In progress :construction:
